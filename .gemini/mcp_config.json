@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "doc-sidebar-reader": {
+            "command": "node",
+            "args": [
+                "./scripts/docs-mcp.js"
+            ]
+        }
+    }
+}
